@@ -6,6 +6,6 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "peer": "^0.7.5"
+    "peer": "latest"
   }
 }
