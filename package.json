@@ -1,0 +1,11 @@
+{
+  "name": "451k1-peer-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "peer": "^0.7.5"
+  }
+}
